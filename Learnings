@@ -1,0 +1,8 @@
+to set a variable to "Null" do
+x = ''
+
+to reverse a list
+wrd = test
+rvs=wrd[::-1]
+print(rvs)
+

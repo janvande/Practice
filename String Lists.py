@@ -13,5 +13,6 @@ if test1.upper() == test2.upper():
 else:
     revName = ''.join(revString)
     print(revName + ' - is not a palindrome for - ' + revName)
+#Net om seker te maak
 
 

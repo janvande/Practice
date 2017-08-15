@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7bd88d3e-38f9-400f-92f3-94737c196cda" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/List remove duplicates.py" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Reverse word order.py" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,11 +15,31 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="List remove duplicates.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="List remove duplicates.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/List remove duplicates.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="285">
               <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Reverse word order.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Reverse word order.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="List Ends.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/List Ends.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -49,6 +69,7 @@
         <option value="$PROJECT_DIR$/List Ends.py" />
         <option value="$PROJECT_DIR$/Fibonacci.py" />
         <option value="$PROJECT_DIR$/List remove duplicates.py" />
+        <option value="$PROJECT_DIR$/Reverse word order.py" />
       </list>
     </option>
   </component>
@@ -121,25 +142,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.List remove duplicates">
-    <configuration default="false" name="List Overlap Comprehension" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <module name="Practice" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/List Overlap Comprehension.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="Python.Reverse word order">
     <configuration default="false" name="4 - Divisors" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -212,6 +215,24 @@
       <option name="EMULATE_TERMINAL" value="false" />
       <method />
     </configuration>
+    <configuration default="false" name="Reverse word order" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="Practice" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Reverse word order.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <method />
+    </configuration>
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -277,19 +298,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Python.List Overlap Comprehension" />
-      <item index="1" class="java.lang.String" itemvalue="Python.4 - Divisors" />
-      <item index="2" class="java.lang.String" itemvalue="Python.List Ends" />
-      <item index="3" class="java.lang.String" itemvalue="Python.Fibonacci" />
-      <item index="4" class="java.lang.String" itemvalue="Python.List remove duplicates" />
+      <item index="0" class="java.lang.String" itemvalue="Python.4 - Divisors" />
+      <item index="1" class="java.lang.String" itemvalue="Python.List Ends" />
+      <item index="2" class="java.lang.String" itemvalue="Python.Fibonacci" />
+      <item index="3" class="java.lang.String" itemvalue="Python.List remove duplicates" />
+      <item index="4" class="java.lang.String" itemvalue="Python.Reverse word order" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Python.List remove duplicates" />
-        <item index="1" class="java.lang.String" itemvalue="Python.Fibonacci" />
-        <item index="2" class="java.lang.String" itemvalue="Python.List Ends" />
-        <item index="3" class="java.lang.String" itemvalue="Python.4 - Divisors" />
-        <item index="4" class="java.lang.String" itemvalue="Python.List Overlap Comprehension" />
+        <item index="0" class="java.lang.String" itemvalue="Python.Reverse word order" />
+        <item index="1" class="java.lang.String" itemvalue="Python.List remove duplicates" />
+        <item index="2" class="java.lang.String" itemvalue="Python.Fibonacci" />
+        <item index="3" class="java.lang.String" itemvalue="Python.List Ends" />
+        <item index="4" class="java.lang.String" itemvalue="Python.4 - Divisors" />
       </list>
     </recent_temporary>
   </component>
@@ -424,7 +445,7 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="158" />
+      <option name="time" value="174" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -524,14 +545,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/List Ends.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_imps/_pydev_execfile.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
@@ -552,6 +565,22 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="285">
           <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/List Ends.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="true" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Reverse word order.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="0" lean-forward="false" selection-start-line="7" selection-start-column="0" selection-end-line="7" selection-end-column="0" />
           <folding />
         </state>
       </provider>
